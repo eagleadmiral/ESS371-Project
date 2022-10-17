@@ -1,4 +1,4 @@
-Longitude,Latitude
+Longitude,Latitude, Name
 -114.6319,32.7317
 -114.7386,36.0153
 -109.2934,38.8105
